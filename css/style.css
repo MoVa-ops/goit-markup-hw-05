@@ -306,7 +306,6 @@ img {
 
 .team-icon-list {
   display: flex;
-  align-items: row;
   justify-content: center;
   gap: 24px;
   padding-top: 8px;
